@@ -25,3 +25,7 @@ Durante mi formación he utilizado herramientas para programar, analizar datos y
 | Desarrollo web | HTML, CSS, JavaScript, TypeScript |
 | Control de versiones | Git y GitHub |
 
+## Proyectos destacados
+
+Próximamente compartiré proyectos académicos y personales relacionados con el análisis de datos, el aprendizaje automático y el desarrollo de aplicaciones.
+
