@@ -29,3 +29,8 @@ Durante mi formación he utilizado herramientas para programar, analizar datos y
 
 Próximamente compartiré proyectos académicos y personales relacionados con el análisis de datos, el aprendizaje automático y el desarrollo de aplicaciones.
 
+## Contacto
+
+Puedes escribirme para intercambiar ideas sobre tecnología, aprendizaje o proyectos académicos.
+
+- **Correo:** [jaychanc@espol.edu.ec](mailto:jaychanc@espol.edu.ec)
