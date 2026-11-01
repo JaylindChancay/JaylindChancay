@@ -17,17 +17,29 @@ Me interesa comprender cómo los datos pueden ayudarnos a resolver problemas y t
 
 Durante mi formación he utilizado herramientas para programar, analizar datos y desarrollar aplicaciones. Sigo fortaleciendo mis conocimientos mediante ejercicios y trabajos académicos.
 
-| Área | Tecnologías y herramientas |
+| Tecnología o herramienta | Conocimientos y aplicación |
 |---|---|
-| Programación | Python, Java |
-| Análisis de datos y experimentación | Google Colab |
-| Aprendizaje automático | Scikit-learn |
-| Desarrollo web | HTML, CSS, JavaScript, TypeScript |
-| Control de versiones | Git y GitHub |
+| Python | Programación, procesamiento y análisis de datos, y desarrollo de modelos de aprendizaje automático. |
+| Java | Desarrollo de programas con programación orientada a objetos, utilizando clases, métodos y estructuras de control. |
+| Google Colab | Desarrollo y ejecución de cuadernos en Python para analizar datos, realizar experimentos y documentar resultados. |
+| Scikit-learn | Entrenamiento y evaluación de modelos de clasificación, validación cruzada y comparación del rendimiento de modelos. |
+| HTML y CSS | Estructuración y diseño de páginas web, con distribución de elementos y adaptación a diferentes tamaños de pantalla. |
+| JavaScript y TypeScript | Desarrollo de funcionalidades interactivas, manejo de eventos y manipulación del DOM, con uso de tipos e interfaces en TypeScript. |
+| SQL | Creación y consulta de bases de datos relacionales para organizar, gestionar y analizar información. |
+| GitHub | Gestión de repositorios, publicación de contenido y seguimiento de cambios mediante commits descriptivos. |
 
 ## Proyectos destacados
 
-Próximamente compartiré proyectos académicos y personales relacionados con el análisis de datos, el aprendizaje automático y el desarrollo de aplicaciones.
+Aquí comparto los proyectos que he desarrollado. Más adelante incorporaré nuevos trabajos académicos y personales relacionados con el análisis de datos, el aprendizaje automático y el desarrollo de aplicaciones.
+
+### PoliMatch
+
+Sitio web académico que reúne información sobre partidos y actividades de fútbol en ESPOL, para facilitar la consulta de horarios y oportunidades de participación.
+
+- **Tecnologías utilizadas:** HTML, CSS y JavaScript.
+- **Funcionalidades principales:** calendario de partidos, filtros interactivos, información sobre canchas, pruebas de selección y galería deportiva.
+
+[Ver repositorio](https://github.com/JaylindChancay/espol-futbol) · [Ver demostración](https://jaylindchancay.github.io/espol-futbol/)
 
 ## Contacto
 
