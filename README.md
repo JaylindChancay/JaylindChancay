@@ -12,3 +12,16 @@ Me interesa comprender cómo los datos pueden ayudarnos a resolver problemas y t
 - **Aprendizaje automático:** desarrollar y evaluar modelos para realizar predicciones.
 - **Inteligencia artificial:** conocer sus aplicaciones y aprender a utilizarla de manera responsable.
 - **Desarrollo de aplicaciones:** crear herramientas que permitan aplicar mis conocimientos de programación.
+
+## Habilidades y tecnologías
+
+Durante mi formación he utilizado herramientas para programar, analizar datos y desarrollar aplicaciones. Sigo fortaleciendo mis conocimientos mediante ejercicios y trabajos académicos.
+
+| Área | Tecnologías y herramientas |
+|---|---|
+| Programación | Python, Java |
+| Análisis de datos y experimentación | Google Colab |
+| Aprendizaje automático | Scikit-learn |
+| Desarrollo web | HTML, CSS, JavaScript, TypeScript |
+| Control de versiones | Git y GitHub |
+
