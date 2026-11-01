@@ -36,10 +36,15 @@ Aquí comparto los proyectos que he desarrollado. Más adelante incorporaré nue
 
 Sitio web académico que reúne información sobre partidos y actividades de fútbol en ESPOL, para facilitar la consulta de horarios y oportunidades de participación.
 
-- **Tecnologías utilizadas:** HTML, CSS y JavaScript.
-- **Funcionalidades principales:** calendario de partidos, filtros interactivos, información sobre canchas, pruebas de selección y galería deportiva.
+### PoliMatch
 
-[Ver repositorio](https://github.com/JaylindChancay/espol-futbol) · [Ver demostración](https://jaylindchancay.github.io/espol-futbol/)
+Sitio web académico sobre partidos y actividades de fútbol en ESPOL.
+
+- **Problema o necesidad que resuelve:** reúne información sobre horarios, partidos y oportunidades de participación deportiva para facilitar su consulta en un solo lugar.
+- **Tecnologías utilizadas:** HTML, CSS y JavaScript.
+- **Funcionalidades principales:** calendario de partidos, filtros interactivos, información sobre canchas y pruebas de selección, y galería deportiva.
+- **Repositorio:** [Ver código fuente](https://github.com/JaylindChancay/espol-futbol).
+- **Demostración:** [Visitar PoliMatch](https://jaylindchancay.github.io/espol-futbol/).
 
 ## Contacto
 
